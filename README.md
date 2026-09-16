@@ -49,7 +49,3 @@ Spring Boot 2.3.12 · Redis (Lettuce) · Redisson 3.37.0 · MySQL 5.6 · MyBatis
 
 
 
-
-## 🔖 License
-
-MIT
